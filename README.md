@@ -4,11 +4,14 @@
 
 Welcome to my first bootcamp project! This project was part of a challenge to refractor an exitsing marketing agency website to increase it's accesibility. The task was to improve the code without altering its functionality, ensure accesibility standards are met and the site is optimised for search engines.
 
-##Screenshots 
+## Screenshots 
+
+![ ](images/screenshot1%20.png)
 
 
 ## Deployed Application
 
+https://jovana667.github.io/challenge-1/
 
 ## Credits
 
