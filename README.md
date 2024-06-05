@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to my first bootcamp project! This project was part of a challenge to refractor an exitsing marketing agency website to increase it's accesibility. The task was to improve the code without altering its functionality, ensure accesibility standards are met and the site is optimised for search engines.
+Welcome to my first bootcamp project! This project was apart of a challenge to refractor and increase the accesibility of an existing marketing agency website. The task was to improve the code through the use of semantic elements without altering its functionality, ensure accesibility standards are met and the site is optimised for search engines.
 
 ## Screenshots 
 
