@@ -6,7 +6,7 @@ Welcome to my first bootcamp project! This project was part of a challenge to re
 
 ## Screenshots 
 
-![ ](images/screenshot1%20.png)
+![ ](images/screenshot1.png)
 
 
 ## Deployed Application
