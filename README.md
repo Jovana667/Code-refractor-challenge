@@ -6,8 +6,9 @@ Welcome to my first bootcamp project! This project was part of a challenge to re
 
 ## Screenshots 
 
-![ ](images/screenshot1.png)
-
+![screenshot1](https://github.com/Jovana667/challenge-1/assets/114545493/746191be-ebba-4865-ac8a-be6bf6a3802d)
+![screenshot2](https://github.com/Jovana667/challenge-1/assets/114545493/701964dd-c568-487d-a8f4-08068a55c42e)
+![screenshot3](https://github.com/Jovana667/challenge-1/assets/114545493/a7ea470b-32bf-4bc2-999b-cc7777cec0a2)
 
 ## Deployed Application
 
